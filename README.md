@@ -1,2 +1,1 @@
-# proginow.github.io
-Github Page
+[Home](https://proginow.com/) - [Github](https://github.com/proginow/)
